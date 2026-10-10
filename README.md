@@ -22,7 +22,7 @@ A terminal-based Discord utility toolkit developed by Misthycc, featuring an ani
 Clone the repository:
 
 ```bash
-git clone [YOUR_REPOSITORY_URL](https://github.com/rodlouis2-cloud/MISTHYCCdiscordtool.git)
+git clone https://github.com/rodlouis2-cloud/MISTHYCCdiscordtool.git
 cd MISTHYCCdiscordtool
 ```
 
